@@ -20,7 +20,7 @@ public class BusDemo {
 		try (Scanner sc = new Scanner(System.in)) {
 			int user = 1;
 			
-			while(user == 1) {
+			while(user == 2) {
 				System.out.println("Enter 1 to book or enter 2 to exit");
 				
 				user = sc.nextInt();
